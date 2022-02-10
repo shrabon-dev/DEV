@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    font-family: 'Kanit', sans-serif;
+}
+body{
+    background: #1b1b1b;
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    padding: 0 80px;
+}
+
+h1{
+    font-family: 'Quintessential', cursive;
+    color:  #ffffff;
+    margin-bottom: 50px;
+    text-align: center;
+    border-bottom: 1px solid #a6deff;
+}
+h2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 28px;
+    color: #50befdde;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+ul{
+    padding-left: 80px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 18px;
+    color: #a6deffcc;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
